@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Embed Power BI</title>
+</head>
+<body>
+    <iframe title="CTO V5" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMjZjMDZjYTQtNmIzNy00ZDNmLWI3ZTItNDQ2YTg0NzA3MjUzIiwidCI6IjUzMDZmOWRmLWY0Y2YtNGY4NC05MDVhLTA2NjkxOWNiYjRlMyJ9" frameborder="0" allowFullScreen="true"></iframe>
+</body>
+</html>
